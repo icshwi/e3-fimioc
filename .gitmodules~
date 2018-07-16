@@ -1,0 +1,3 @@
+[submodule "m-epics-fimioc"]
+	path = m-epics-fimioc
+	url = https://bitbucket.org/europeanspallationsource/m-epics-fimioc

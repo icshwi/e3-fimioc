@@ -1,0 +1,16 @@
+>>
+Script is used     : create_e3_modules.bash
+Script Path        : /home/icssev/e3-dev/develop/jp/e3/tools/template_gen
+User               : icssev
+Log Time           : 2018Jul16-1003-18CEST
+e3 repo Hash       : 4b38b0a
+>> 
+EPICS_MODULE_NAME  :                                                           fimioc
+E3_MODULE_SRC_PATH :                                                   m-epics-fimioc
+EPICS_MODULE_URL   :                   https://bitbucket.org/europeanspallationsource
+E3_TARGET_URL      :                                        https://github.com/icshwi
+>> 
+e3 module name     :                                                        e3-fimioc
+e3 module url full :    https://bitbucket.org/europeanspallationsource/m-epics-fimioc
+e3 target url full :                              https://github.com/icshwi/e3-fimioc
+>> 
